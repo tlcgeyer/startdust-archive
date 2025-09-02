@@ -29,12 +29,19 @@ time (solar or lunar) - icons
 img_url
 obtained_status(✅ | ❌)
 
-
 wip for the memories:
 acquired date
 heart icon(so you can add to  your wishlist for which ones you want to save - also somehow send out a notification that the memory in your wishlist might have a rerun )
 progress bar( to manage to the lvl state of memories from 1-80, also displays how much you still need to max out or to the lvl you wanr)
 
-2. [For leveling up] : Include a feature where if the stellactrum is emerald, make it display how many emerald crystals i need whether its N,R,SR and the display the selected image & how much you need to ascend to max. 1-80 N-[5800] R-[2400] SR-[918] Gold-[1 220 000] with an Awakened Heart-[1]
+2. [For leveling up] : Include a feature where if the stellactrum is emerald, make it display how many emerald crystals i need whether its N,R,SR and the display the selected image & how much you need to ascend to max. 1-80 N-[5800] R-[2400] SR-[918] Gold-[1 220 000] with an Awakened Heart-[1] && Bounty hunt to max out 5star 1-80 awakened N-[8] R-[12] SR-[1197] & 4star awakened N-[12] R-[9] SR-[956] [This is materials i need to levelup the cards to the levels] - Please note, the data i collected for this has all been allocated from reddit docs & spreadsheets and im not certain but its about roughly 98% accurate, feel free to message me if it is incorrect!.
 
-3. 
+3. add-in a rerun banner as well
+
+4. Signal & notificated alerts on rerun banners 
+
+5. Show a history of past banners(for reruns exp so you can kinda speculate who to save for on the next rerun?)
+
+MOBILE
+--------
+1. Make the background fixed when opening up the filter section
