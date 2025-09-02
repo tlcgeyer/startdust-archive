@@ -72,16 +72,7 @@ const MemoryCard = () => {
           Edit Progress
         </button>
         <ProgressTrackerModal open={isOpen} onClose={() => setIsOpen(false)}>
-          hey
-          efh9dnefdvf
-          ifbeibfe
-          feiefefbe
-          fiebfeibfef kfneofneofneonfeonfoefnef
-          eoneofneonfoenf
-          foneonefneofn
-          wdondnw
-          fiebfeibfefeobfefo
-          eofeof
+        tes
           </ProgressTrackerModal>
       </div>
     </div>
